@@ -14,9 +14,9 @@
 
 ### 🌍 Communities I'm Active In
 
-- [Base Philippines](https://twitter.com/BuildOnBasePH)  
-- [The BLOKC](https://twitter.com/theblokc)  
-- [Superteam Philippines](https://twitter.com/SuperteamPH)  
+- [Base Philippines](https://twitter.com/BasePilinas)  
+- [The BLOKC](https://x.com/theblokcgroup)  
+- [Superteam Philippines](https://twitter.com/superteamphl)  
 - [Hiraya Network](https://twitter.com/HirayaNetwork)
 
 ---
@@ -27,6 +27,7 @@
 - [X (formerly Twitter)](https://x.com/TobiLearns)  
 - [GitHub](https://github.com/Tobi-Learns)  
 - [LinkedIn](https://www.linkedin.com/in/nickjohn-ibuyat)
+- [Linktree](https://linktr.ee/TobiLearns)
 
 ---
 
